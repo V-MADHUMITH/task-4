@@ -41,3 +41,5 @@ How It Works:
 Conclusion:
 This project demonstrates how Machine Learning & NLP can be used to detect spam emails efficiently. The trained model can be further improved with more data and better algorithms.  
 output:
+
+![Image](https://github.com/user-attachments/assets/030b9979-b0a7-484d-9427-e2a739e6e858)
